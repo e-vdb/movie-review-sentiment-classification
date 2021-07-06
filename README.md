@@ -7,6 +7,8 @@
 
 Sentiment analysis of movie reviews from Internet Movies Database (IMDb) 
 
+Dataset from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 ## Notebook
 
 In construction
