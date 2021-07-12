@@ -13,8 +13,11 @@ Dataset from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-re
 
 50000 reviews : 25000 positive - 25000 negative
 
+## Repository content 
+* 
 ## Notebook
 
 Natural Language Processing (NLP)
+
 
 In construction
