@@ -15,9 +15,11 @@ Dataset from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-re
 
 ## Repository content 
 * moviereview-sentimentanalysis.ipynb: Jupyter Notebook 
+
 ## Notebook
 
-Natural Language Processing (NLP)
+* Natural Language Processing (NLP)
+* Machine learning model : Logistic Regression
+* Evaluation of the accuracy score
 
 
-In construction
