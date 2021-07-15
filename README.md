@@ -24,7 +24,9 @@ Dataset from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-re
 
 ## Visualization of the most discriminating features
 
-![features](https://user-images.githubusercontent.com/82372483/125768506-bd9aa4a2-2c01-4fcd-9884-7a4afaa7df08.png)
+With unigrams only
+
+![features](https://user-images.githubusercontent.com/82372483/125769727-1a2c7414-8082-420e-b29c-9c2292aafeb9.png)
 
 
 
