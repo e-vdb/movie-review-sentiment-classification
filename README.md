@@ -22,4 +22,9 @@ Dataset from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-re
 * Machine learning model : Logistic Regression
 * Evaluation of the accuracy score
 
+## Visualization of the most discriminating features
+
+![features](https://user-images.githubusercontent.com/82372483/125768506-bd9aa4a2-2c01-4fcd-9884-7a4afaa7df08.png)
+
+
 
