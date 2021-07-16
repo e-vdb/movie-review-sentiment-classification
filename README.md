@@ -28,6 +28,11 @@ Dataset from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-re
 
 ![featuresCV](https://user-images.githubusercontent.com/82372483/125919019-1e3410ec-6e2c-45f9-ab8c-9c66672b0b94.png)
 
+### Count Vectorizer (unigrams and bigrams)
+
+![featuresCV2](https://user-images.githubusercontent.com/82372483/125951592-7e1856ab-985a-41b0-a589-9d702e81c8b5.png)
+
+
 ### Count Vectorizer with TFIDF rescaling (unigrams only)
 
 ![featuresTFIDF](https://user-images.githubusercontent.com/82372483/125919113-619e01fe-7463-43bd-8733-ef00b4a1ee37.png)
