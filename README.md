@@ -26,7 +26,8 @@ Dataset from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-re
 
 ### Count Vectorizer with unigrams
 
-![featuresCV](https://user-images.githubusercontent.com/82372483/125918557-5d27e3d7-6e75-4142-a08b-419373b577e9.png)
+![featuresCV](https://user-images.githubusercontent.com/82372483/125918799-796977a8-a530-4887-b2c4-20dc73d6d138.png)
+
 
 
 
