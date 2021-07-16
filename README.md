@@ -24,9 +24,13 @@ Dataset from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-re
 
 ## Visualization of the most discriminating features
 
-### Count Vectorizer with unigrams
+### Count Vectorizer (unigrams only)
 
-![featuresCV](https://user-images.githubusercontent.com/82372483/125918799-796977a8-a530-4887-b2c4-20dc73d6d138.png)
+![featuresCV](https://user-images.githubusercontent.com/82372483/125919019-1e3410ec-6e2c-45f9-ab8c-9c66672b0b94.png)
+
+### Count Vectorizer with TFIDF rescaling (unigrams only)
+
+![featuresTFIDF](https://user-images.githubusercontent.com/82372483/125919113-619e01fe-7463-43bd-8733-ef00b4a1ee37.png)
 
 
 
