@@ -42,5 +42,6 @@ Dataset from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-re
 ![featuresTFIDF2](https://user-images.githubusercontent.com/82372483/126063600-36c883d8-8b56-427e-83bd-234b3a631508.png)
 
 
-
+## TASK LIST
+- [ ] Implement deep learning algorithm using Keras
 
