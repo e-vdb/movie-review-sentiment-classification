@@ -43,5 +43,7 @@ Dataset from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-re
 
 
 ## TASK LIST
+- [x] Implement machine learning algorithm using Scikit-learn
 - [ ] Implement deep learning algorithm using Keras
+- [ ] Deploy model
 
