@@ -15,7 +15,7 @@ Dataset from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-re
 
 ## Streamlit interface
 
-
+![streamlit](https://user-images.githubusercontent.com/82372483/143247246-7ec9ebb2-5d1d-4ede-880a-8c0927b1d886.png)
 
 ## Repository content 
 * model/ folder containing different Python scripts
@@ -50,5 +50,5 @@ Dataset from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-re
 ## TASK LIST
 - [x] Implement machine learning algorithm using Scikit-learn
 - [ ] Implement deep learning algorithm using Keras
-- [ ] Deploy model
+- [x] Deploy model: Streamlit interface
 
