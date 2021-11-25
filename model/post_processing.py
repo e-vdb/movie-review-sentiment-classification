@@ -9,7 +9,9 @@ def load_model():
 
 
 def make_prediction(model, text):
-    return "The review is " + "".join(model.predict([text])) +"."
+    pred = model.predict([text])
+    output = "The review is " + "".join(pred) +"."
+    return pred, output
 
 def details_proba(model, text):
     return pd.DataFrame(model.predict_proba([text]), columns=['Negative', 'Positive'], index=['Review'])
