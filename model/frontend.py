@@ -13,10 +13,14 @@ review = form.text_input(label="Enter the text of your movie review")
 submit = form.form_submit_button(label="Make Prediction")
 show = form.checkbox('Show details')
 if submit:
-    result = make_prediction(ML_model, review)
+    pred, result = make_prediction(ML_model, review)
     # Display results of the NLP task
     st.header("Results")
     st.write(result)
+    if pred == 'positive':
+        st.image('model/happy.jpeg')
+    else:
+        st.image('model/angry.jpg')
 
 if show:
     st.write("Probabilities")
